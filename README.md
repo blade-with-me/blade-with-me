@@ -1,4 +1,13 @@
 ### Hi there 👋
+*Hi, I'm blade-with-me*  
+*(Blade is one of my favorite characters in "NU: Carnival")*
+- 🌱 I’m currently learning "Web Programming", "Business Data Communications",  
+"Statistics", "Economics" and more and more about
+***Information Management***
+.  
+- 🤔 I’m looking for help with my final exam.  
+
+*Nice to meet you!!!*  
 
 <!--
 **blade-with-me/blade-with-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
